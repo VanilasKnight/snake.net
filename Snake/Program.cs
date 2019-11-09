@@ -289,7 +289,7 @@ namespace Snake
                 return;
             }
 
-            snake.Move();
+            snake.Move(); 
         }
     }
 }
